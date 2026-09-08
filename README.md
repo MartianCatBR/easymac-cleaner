@@ -5,10 +5,11 @@
 ### A simple, native cleaner and optimizer for macOS
 
 [![Homebrew Cask](https://img.shields.io/badge/Homebrew-easymac--cleaner-orange?style=flat-square&logo=homebrew)](https://formulae.brew.sh/cask/easymac-cleaner)
-[![macOS](https://img.shields.io/badge/macOS-11.0%2B%20(Big%20Sur%20or%20later)-blue?style=flat-square&logo=apple)](https://martiancat.space)
+[![macOS](https://img.shields.io/badge/macOS-11.0%2B-blue?style=flat-square&logo=apple)](https://martiancat.space)
 [![Apple Notarized](https://img.shields.io/badge/Apple%20Security-Notarized%20%26%20Signed-success?style=flat-square&logo=apple)](https://martiancat.space)
 [![Privacy First](https://img.shields.io/badge/Privacy-100%25%20Local-green?style=flat-square&logo=icloud)](https://martiancat.space/privacy.html)
-[![Architecture](https://img.shields.io/badge/Architecture-Universal%20(Apple%20Silicon%20%2F%20Intel)-lightgrey?style=flat-square)](https://martiancat.space)
+[![Architecture](https://img.shields.io/badge/Architecture-Universal-lightgrey?style=flat-square)](https://martiancat.space)
+[![Download](https://img.shields.io/badge/Download-v1.3-007EC6?style=flat-square)](https://updates.martiancat.space/cleaner/EasyMacCleaner-1.3.zip)
 
 <br/>
 
@@ -71,7 +72,7 @@ Three main parts: cleaning junk, light optimization, and a few extra tools.
 
 ## 🌐 Community crowdsourcing
 
-Anyone can suggest new leftover patterns or cache locations from inside the app. After a quick check, the new rules go out to everyone through the MartianCat API — no need to wait for a full app update.  
+Anyone can suggest new leftover patterns or cache locations from inside the app. After a quick check, the new rules go out to everyone through the MartianCat API — no need to wait for a full app update.
 When a suggestion of yours gets accepted you get a small badge and it shows up in your Metrics page under resolved contributions.
 
 ---
@@ -86,7 +87,7 @@ There’s a completely optional ranking system if you feel like competing a bit:
 
 ---
 
-## 📸 Some screenshots
+## 📸 Screenshots
 
 <div align="center">
 
