@@ -7,7 +7,7 @@
 [![Homebrew Cask](https://img.shields.io/badge/Homebrew-easymac--cleaner-orange?style=flat-square&logo=homebrew)](https://formulae.brew.sh/cask/easymac-cleaner)
 [![macOS](https://img.shields.io/badge/macOS-11.0%2B-blue?style=flat-square&logo=apple)](https://martiancat.space)
 [![Apple Notarized](https://img.shields.io/badge/Apple%20Security-Notarized%20%26%20Signed-success?style=flat-square&logo=apple)](https://martiancat.space)
-[![Privacy First](https://img.shields.io/badge/Privacy-Anonymous%20Only-green?style=flat-square)](https://martiancat.space/privacy.html)
+[![Privacy First](https://img.shields.io/badge/Privacy-Anonymous-green?style=flat-square)](https://martiancat.space/privacy.html)
 [![Architecture](https://img.shields.io/badge/Architecture-Universal-lightgrey?style=flat-square)](https://martiancat.space)
 [![Download](https://img.shields.io/badge/Download-v1.3-007EC6?style=flat-square)](https://updates.martiancat.space/cleaner/EasyMacCleaner-1.3.zip)
 
