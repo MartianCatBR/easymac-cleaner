@@ -4,7 +4,6 @@
 
 ### Native, Fast & Safe System Optimization for macOS
 
-[![Homebrew Cask](https://img.shields.io/badge/Homebrew-easymac--cleaner-orange?style=flat-square&logo=homebrew)](https://formulae.brew.sh/cask/easymac-cleaner)
 [![macOS](https://img.shields.io/badge/macOS-11.0%2B%20(Big%20Sur%20or%20later)-blue?style=flat-square&logo=apple)](https://martiancat.space)
 [![Apple Notarized](https://img.shields.io/badge/Apple%20Security-Notarized%20%26%20Signed-success?style=flat-square&logo=apple)](https://martiancat.space)
 [![Privacy First](https://img.shields.io/badge/Privacy-100%25%20Local-green?style=flat-square&logo=icloud)](https://martiancat.space/privacy.html)
