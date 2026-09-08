@@ -69,19 +69,43 @@ EasyMac Cleaner is structured into three dedicated modules designed to keep your
 
 ---
 
+## 🌐 Community Crowdsourcing & Collective Intelligence
+
+EasyMac Cleaner features an innovative **Crowdsourced Cleaning Engine** that grows smarter every day thanks to the macOS community:
+
+- **🧠 Continuous Rule Updates**: Users can submit suggestions for new app leftover patterns, unknown cache directories, and custom cleanup rules directly from the app.
+- **⚡ Instant Cloud Delivery**: Once verified, new cleaning definitions are published globally via the MartianCat API—keeping every user's cleaner up-to-date in real time without waiting for full app updates.
+- **🏅 Recognized Contributions**: When your submitted suggestions are approved and integrated into the global engine, you receive in-app acknowledgment, milestone badges, and ranking boosts in your **Metrics** dashboard under *Resolved Community Contributions*.
+
+---
+
 ## 🏆 Gamification & Global Ranking (Metrics)
 
 EasyMac Cleaner features an **optional, community-driven gamification system**:
 
 - **🌍 Global & National Leaderboards**: Track your total recovered storage and compare your cleaning milestones with users worldwide and in your country.
-- **🎖️ Cleanup Achievements**: Earn rank positions based on total gigabytes reclaimed, leftover files removed, and optimization tasks completed.
+- **🎖️ Cleanup Achievements**: Earn rank positions based on total gigabytes reclaimed, leftover files removed, and community contributions completed.
 - **🔒 100% Opt-In & Anonymous**: Participation in the Global Ranking is entirely optional. It uses a randomized, anonymous installation token—**no personal data, usernames, or file names are ever collected or shared**.
 
 ---
 
 ## 📸 Screenshots
 
-*(Screenshots will be uploaded soon)*
+<div align="center">
+
+| ⚡ Accumulations & Junk Cleaning | 📊 Storage Health & Purgeable Space |
+| :---: | :---: |
+| <img src="screenshots/accumulations.png" width="410" alt="Accumulations Cleanup" /> | <img src="screenshots/storage.png" width="410" alt="Storage Analysis" /> |
+
+| 🎛️ Real-Time System Monitor | 🔧 System Maintenance & Scripts |
+| :---: | :---: |
+| <img src="screenshots/system_monitor.png" width="410" alt="System Monitor" /> | <img src="screenshots/maintenance.png" width="410" alt="Maintenance" /> |
+
+| 🌐 Community Crowdsourcing | 🏆 Metrics & Global Ranking |
+| :---: | :---: |
+| <img src="screenshots/crowdsourcing.png" width="410" alt="Community Crowdsourcing" /> | <img src="screenshots/metrics.png" width="410" alt="Metrics and Leaderboard" /> |
+
+</div>
 
 ---
 
@@ -90,7 +114,7 @@ EasyMac Cleaner features an **optional, community-driven gamification system**:
 - **Apple Notarized & Signed**: Digitally signed with an official Apple Developer ID and notarized through Apple's automated malware scan ticket.
 - **Zero Invasiveness**: Operates strictly within macOS security guidelines. Does **not** require disabling System Integrity Protection (SIP) or installing root kernel extensions.
 - **Your Data Stays on Your Mac**: EasyMac Cleaner runs 100% locally. Your files, documents, and personal traces are never uploaded or transmitted.
-- **📜 Transparent Privacy Policy**: Full details regarding our strict zero-telemetry default and optional metrics can be reviewed at [**martiancat.space/privacy.html**](https://martiancat.space/privacy.html).
+- **📜 Transparent Privacy Policy**: Full details regarding our strict zero-telemetry default, optional metrics, and crowdsourced suggestions can be reviewed at [**martiancat.space/privacy.html**](https://martiancat.space/privacy.html).
 
 ---
 
