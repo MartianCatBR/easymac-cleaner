@@ -7,6 +7,12 @@
 [![Homebrew Cask](https://img.shields.io/badge/Homebrew-easymac--cleaner-orange?style=flat-square&logo=homebrew)](https://formulae.brew.sh/cask/easymac-cleaner)
 [![macOS](https://img.shields.io/badge/macOS-11.0%2B-blue?style=flat-square&logo=apple)](https://martiancat.space)
 [![Apple Notarized](https://img.shields.io/badge/Apple%20Security-Notarized%20%26%20Signed-success?style=flat-square&logo=apple)](https://martiancat.space)
+[![Swift](https://img.shields.io/badge/Swift-5.0%2B-FA7343?style=flat-square&logo=swift&logoColor=white)](https://swift.org)
+[![UI](https://img.shields.io/badge/UI-SwiftUI-0071E3?style=flat-square&logo=apple&logoColor=white)](https://developer.apple.com/xcode/swiftui/)
+[![Languages](https://img.shields.io/badge/Languages-11%20Supported-purple?style=flat-square)](https://github.com/MartianCatBR/easymac-cleaner#-supported-languages)
+<br/>
+[![SIP](https://img.shields.io/badge/SIP-100%25%20Compatible-success?style=flat-square&logo=apple)](https://martiancat.space)
+[![Root](https://img.shields.io/badge/Root-Not%20Required-success?style=flat-square)](https://martiancat.space)
 [![Privacy First](https://img.shields.io/badge/Privacy-Anonymous-green?style=flat-square)](https://martiancat.space/privacy.html)
 [![Architecture](https://img.shields.io/badge/Architecture-Universal-lightgrey?style=flat-square)](https://martiancat.space)
 [![Download](https://img.shields.io/badge/Download-v1.3-007EC6?style=flat-square)](https://updates.martiancat.space/cleaner/EasyMacCleaner-1.3.zip)
@@ -91,15 +97,15 @@ There’s a completely optional ranking system if you feel like competing a bit:
 
 <div align="center">
 
-| ⚡ Accumulations & Junk Cleaning | 📊 Storage Health & Purgeable Space |
+| ⚡ Junk cleaning | 📊 Storage health and purgeable space |
 | :---: | :---: |
 | <img src="screenshots/accumulations.png" width="410" alt="Accumulations Cleanup" /> | <img src="screenshots/storage.png" width="410" alt="Storage Analysis" /> |
 
-| 🎛️ Real-Time System Monitor | 🔧 System Maintenance & Scripts |
+| 🎛️ Real-time system monitor | 🔧 System maintenance and scripts |
 | :---: | :---: |
 | <img src="screenshots/system_monitor.png" width="410" alt="System Monitor" /> | <img src="screenshots/maintenance.png" width="410" alt="Maintenance" /> |
 
-| 🌐 Community Crowdsourcing | 🏆 Metrics & Global Ranking |
+| 🌐 Community crowdsourcing | 🏆 Metrics and global ranking |
 | :---: | :---: |
 | <img src="screenshots/crowdsourcing.png" width="410" alt="Community Crowdsourcing" /> | <img src="screenshots/metrics.png" width="410" alt="Metrics and Leaderboard" /> |
 
@@ -121,6 +127,24 @@ There’s a completely optional ranking system if you feel like competing a bit:
 
 - macOS 11.0 (Big Sur) or later.
 - Universal binary — native on both Apple Silicon and Intel
+
+---
+
+## 🌍 Supported languages
+
+Fully localized in **11 languages**:
+
+- 🇺🇸 **English**
+- 🇧🇷 **Português** (portuguese)
+- 🇪🇸 **Español** (spanish)
+- 🇩🇪 **Deutsch** (german)
+- 🇮🇹 **Italiano** (italian)
+- 🇫🇷 **Français** (french)
+- 🇨🇳 **简体中文** (simplified Chinese)
+- 🇯🇵 **日本語** (japanese)
+- 🇰🇷 **한국어** (korean)
+- 🇳🇱 **Nederlands** (dutch)
+- 🇵🇱 **Polski** (polish)
 
 ---
 
