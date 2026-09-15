@@ -6,16 +6,16 @@
 
 [![Homebrew Cask](https://img.shields.io/badge/Homebrew-easymac--cleaner-orange?style=flat-square&logo=homebrew)](https://formulae.brew.sh/cask/easymac-cleaner)
 [![macOS](https://img.shields.io/badge/macOS-11.0%2B-blue?style=flat-square&logo=apple)](https://martiancat.space)
-[![Apple Notarized](https://img.shields.io/badge/Apple%20Security-Notarized%20%26%20Signed-success?style=flat-square&logo=apple)](https://martiancat.space)
+[![Apple Notarized](https://img.shields.io/badge/Apple%20Security-Notarized-success?style=flat-square&logo=apple)](https://martiancat.space)
 [![Swift](https://img.shields.io/badge/Swift-5.0%2B-FA7343?style=flat-square&logo=swift&logoColor=white)](https://swift.org)
 [![UI](https://img.shields.io/badge/UI-SwiftUI-0071E3?style=flat-square&logo=apple&logoColor=white)](https://developer.apple.com/xcode/swiftui/)
-[![Languages](https://img.shields.io/badge/Languages-11%20Supported-purple?style=flat-square)](https://github.com/MartianCatBR/easymac-cleaner#-supported-languages)
+[![Languages](https://img.shields.io/badge/Languages-13-purple?style=flat-square)](https://github.com/MartianCatBR/easymac-cleaner#-supported-languages)
 <br/>
 [![SIP](https://img.shields.io/badge/SIP-100%25%20Compatible-success?style=flat-square&logo=apple)](https://martiancat.space)
 [![Root](https://img.shields.io/badge/Root-Not%20Required-success?style=flat-square)](https://martiancat.space)
 [![Privacy First](https://img.shields.io/badge/Privacy-Anonymous-green?style=flat-square)](https://martiancat.space/privacy.html)
 [![Architecture](https://img.shields.io/badge/Architecture-Universal-lightgrey?style=flat-square)](https://martiancat.space)
-[![Download](https://img.shields.io/badge/Download-v1.3-007EC6?style=flat-square)](https://updates.martiancat.space/cleaner/EasyMacCleaner-1.3.zip)
+[![Download](https://img.shields.io/badge/Download-v1.4-007EC6?style=flat-square)](https://updates.martiancat.space/cleaner/EasyMacCleaner-1.4.zip)
 
 <br/>
 
@@ -24,7 +24,7 @@
 <br/><br/>
 
 [**🌐 Official website**](https://martiancat.space) &nbsp;•&nbsp; 
-[**⬇️ Download latest**](https://updates.martiancat.space/cleaner/EasyMacCleaner-1.3.zip) &nbsp;•&nbsp; 
+[**⬇️ Download latest**](https://updates.martiancat.space/cleaner/EasyMacCleaner-1.4.zip) &nbsp;•&nbsp; 
 [**📜 Privacy policy**](https://martiancat.space/privacy.html) &nbsp;•&nbsp; 
 [**💬 Report an issue**](https://github.com/MartianCatBR/easymac-cleaner/issues)
 
@@ -63,7 +63,7 @@ Three main parts: cleaning junk, light optimization, and a few extra tools.
 ### 🚀 2. Optimization
 - **Login Items**: Turn off startup apps and background helpers that slow down boot.
 - **Scheduled Tasks**: View and manage third-party LaunchDaemons and LaunchAgents.
-- **Storage**: Simple visualizer that shows volume health and recovers purgeable space.
+- **Storage**: Disk space visualizer, S.M.A.R.T. hardware health diagnostics, read/write speed benchmark with global ranking, and purgeable space recovery.
 
 ### 🛠️ 3. Tools
 - **System Monitor**: Lightweight menu-bar display for live CPU, memory pressure, disk activity and temperature.
@@ -87,9 +87,9 @@ When a suggestion of yours gets accepted you get a small badge and it shows up i
 
 There’s a completely optional ranking system if you feel like competing a bit:
 
-- Global and country leaderboar based on total space recovered.
+- Global and country leaderboard based on total space recovered.
 - Simple achievements for cleanup volume and accepted community suggestions.
-- 100 % opt-in and anonymous. It only uses a random install token — no names, no personal data, no file names.
+- 100% opt-in and anonymous. It only uses a random install token — no names, no personal data, no file names.
 
 ---
 
@@ -132,19 +132,21 @@ There’s a completely optional ranking system if you feel like competing a bit:
 
 ## 🌍 Supported languages
 
-Fully localized in **11 languages**:
+Fully localized in **13 languages**:
 
 - 🇺🇸 **English**
-- 🇧🇷 **Português** (portuguese)
-- 🇪🇸 **Español** (spanish)
-- 🇩🇪 **Deutsch** (german)
-- 🇮🇹 **Italiano** (italian)
-- 🇫🇷 **Français** (french)
-- 🇨🇳 **简体中文** (simplified Chinese)
-- 🇯🇵 **日本語** (japanese)
-- 🇰🇷 **한국어** (korean)
-- 🇳🇱 **Nederlands** (dutch)
-- 🇵🇱 **Polski** (polish)
+- 🇧🇷 **Português** (Portuguese)
+- 🇪🇸 **Español** (Spanish)
+- 🇩🇪 **Deutsch** (German)
+- 🇮🇹 **Italiano** (Italian)
+- 🇫🇷 **Français** (French)
+- 🇳🇱 **Nederlands** (Dutch)
+- 🇵🇱 **Polski** (Polish)
+- 🇷🇺 **Русский** (Russian)
+- 🇨🇳 **简体中文** (Simplified Chinese)
+- 🇯🇵 **日本語** (Japanese)
+- 🇰🇷 **한국어** (Korean)
+- 🇮🇳 **हिन्दी** (Hindi)
 
 ---
 
