@@ -15,7 +15,7 @@
 [![Root](https://img.shields.io/badge/Root-Not%20Required-success?style=flat-square)](https://martiancat.space)
 [![Privacy First](https://img.shields.io/badge/Privacy-Anonymous-green?style=flat-square)](https://martiancat.space/privacy.html)
 [![Architecture](https://img.shields.io/badge/Architecture-Universal-lightgrey?style=flat-square)](https://martiancat.space)
-[![Download](https://img.shields.io/badge/Download-v1.5-007EC6?style=flat-square)](https://updates.martiancat.space/cleaner/EasyMacCleaner-1.5.zip)
+[![Download](https://img.shields.io/badge/Download-v1.5.1-007EC6?style=flat-square)](https://updates.martiancat.space/cleaner/EasyMacCleaner-1.5.1.zip)
 
 <br/>
 
@@ -24,7 +24,7 @@
 <br/><br/>
 
 [**🌐 Official website**](https://martiancat.space) &nbsp;•&nbsp; 
-[**⬇️ Download latest**](https://updates.martiancat.space/cleaner/EasyMacCleaner-1.5.zip) &nbsp;•&nbsp; 
+[**⬇️ Download latest**](https://updates.martiancat.space/cleaner/EasyMacCleaner-1.5.1.zip) &nbsp;•&nbsp; 
 [**📜 Privacy policy**](https://martiancat.space/privacy.html) &nbsp;•&nbsp; 
 [**💬 Report an issue**](https://github.com/MartianCatBR/easymac-cleaner/issues)
 
