@@ -5,7 +5,7 @@
 ### A simple, native cleaner and optimizer for macOS
 
 [![Homebrew Cask](https://img.shields.io/badge/Homebrew-easymac--cleaner-orange?style=flat-square&logo=homebrew)](https://formulae.brew.sh/cask/easymac-cleaner)
-[![macOS](https://img.shields.io/badge/macOS-11.0%2B-blue?style=flat-square&logo=apple)](https://martiancat.space)
+[![macOS](https://img.shields.io/badge/macOS-12.0%2B-blue?style=flat-square&logo=apple)](https://martiancat.space)
 [![Apple Notarized](https://img.shields.io/badge/Apple%20Security-Notarized-success?style=flat-square&logo=apple)](https://martiancat.space)
 [![Swift](https://img.shields.io/badge/Swift-5.0%2B-FA7343?style=flat-square&logo=swift&logoColor=white)](https://swift.org)
 [![UI](https://img.shields.io/badge/UI-SwiftUI-0071E3?style=flat-square&logo=apple&logoColor=white)](https://developer.apple.com/xcode/swiftui/)
@@ -24,7 +24,7 @@
 <br/><br/>
 
 [**🌐 Official website**](https://martiancat.space) &nbsp;•&nbsp; 
-[**⬇️ Download latest**](https://updates.martiancat.space/cleaner/EasyMacCleaner-1.5.1.zip) &nbsp;•&nbsp; 
+[**⬇️ Download latest**](https://updates.martiancat.space/cleaner/EasyMacCleaner-1.6.zip) &nbsp;•&nbsp; 
 [**📜 Privacy policy**](https://martiancat.space/privacy.html) &nbsp;•&nbsp; 
 [**💬 Report an issue**](https://github.com/MartianCatBR/easymac-cleaner/issues)
 
@@ -68,12 +68,12 @@ EasyMac Cleaner is divided into three main sections: cleaning junk, system optim
 ### 🛠️ 3. Tools
 - **System Monitor**: Lightweight menu-bar item for real-time CPU, RAM pressure, disk activity, and hardware temperatures.
 - **Free RAM**: Flushes inactive memory and system caches using native macOS APIs.
-- **Maintenance**: Runs essential maintenance scripts, rebuilds Spotlight search indexes, flushes DNS cache, and repairs disk permissions.
+- **Maintenance**: Runs periodic system scripts, rebuilds Launch Services and Spotlight indexes, flushes DNS cache, refreshes Quick Look previews, and manages local Time Machine snapshots.
 - **File Shredder**: Multi-pass secure file destruction to prevent recovery of sensitive data.
 - **Optimize Cloud**: Clears local cached copies from iCloud Drive, OneDrive, Google Drive, and Dropbox without removing remote files.
 - **Server & NAS Cleanup**: Cleans up `.DS_Store`, `._*` resource forks, and AppleDouble metadata from network shares (SMB, NFS, AFP).
-- **Optimize Battery**: Real-time battery health info (cycle count, max capacity percentage, temperature, charging wattage), energy optimization profiles, and longevity tips.
-- **AI Models Manager**: Detects and cleans local model weights, caches, and context files from Ollama, LM Studio, Hugging Face, and local AI engines.
+- **Optimize Energy**: Configures energy-saving profiles and sleep behavior for both desktop Macs on AC power and MacBooks on battery. On portable Macs, it also monitors battery health, cycle count, temperature, and charging status.
+- **AI Models**: Detects and cleans local model weights, caches, and context files from Ollama, LM Studio, Hugging Face, and Apple Intelligence.
 
 ---
 
