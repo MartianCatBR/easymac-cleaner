@@ -9,13 +9,13 @@
 [![Apple Notarized](https://img.shields.io/badge/Apple%20Security-Notarized-success?style=flat-square&logo=apple)](https://martiancat.space)
 [![Swift](https://img.shields.io/badge/Swift-5.0%2B-FA7343?style=flat-square&logo=swift&logoColor=white)](https://swift.org)
 [![UI](https://img.shields.io/badge/UI-SwiftUI-0071E3?style=flat-square&logo=apple&logoColor=white)](https://developer.apple.com/xcode/swiftui/)
-[![Languages](https://img.shields.io/badge/Languages-15-purple?style=flat-square)](https://github.com/MartianCatBR/easymac-cleaner#-supported-languages)
+[![Languages](https://img.shields.io/badge/Languages-16-purple?style=flat-square)](https://github.com/MartianCatBR/easymac-cleaner#-supported-languages)
 <br/>
 [![SIP](https://img.shields.io/badge/SIP-100%25%20Compatible-success?style=flat-square&logo=apple)](https://martiancat.space)
 [![Root](https://img.shields.io/badge/Root-Not%20Required-success?style=flat-square)](https://martiancat.space)
 [![Privacy First](https://img.shields.io/badge/Privacy-Anonymous-green?style=flat-square)](https://martiancat.space/privacy.html)
 [![Architecture](https://img.shields.io/badge/Architecture-Universal-lightgrey?style=flat-square)](https://martiancat.space)
-[![Download](https://img.shields.io/badge/Download-v1.6-007EC6?style=flat-square)](https://updates.martiancat.space/cleaner/EasyMacCleaner-1.6.zip)
+[![Download](https://img.shields.io/badge/Download-v1.6.2-007EC6?style=flat-square)](https://github.com/MartianCatBR/easymac-cleaner/releases/download/v1.6.2/EasyMacCleaner-1.6.2.zip)
 
 <br/>
 
@@ -24,7 +24,7 @@
 <br/><br/>
 
 [**🌐 Official website**](https://martiancat.space) &nbsp;•&nbsp; 
-[**⬇️ Download latest**](https://updates.martiancat.space/cleaner/EasyMacCleaner-1.6.zip) &nbsp;•&nbsp; 
+[**⬇️ Download latest**](https://github.com/MartianCatBR/easymac-cleaner/releases/download/v1.6.2/EasyMacCleaner-1.6.2.zip) &nbsp;•&nbsp; 
 [**📜 Privacy policy**](https://martiancat.space/privacy.html) &nbsp;•&nbsp; 
 [**💬 Report an issue**](https://github.com/MartianCatBR/easymac-cleaner/issues)
 
@@ -43,7 +43,7 @@ brew install --cask easymac-cleaner
 > 💡 **Tip**: you can update anytime with `brew upgrade --cask easymac-cleaner` or use the built-in Sparkle updater.
 
 ### 📦 Direct download
-Prefer a standalone build? Download the signed and notarized app from the [official website](https://martiancat.space) or from the [Releases](https://github.com/MartianCatBR/easymac-cleaner/releases) page.
+Prefer a standalone build? Download [EasyMac Cleaner 1.6.2 (ZIP)](https://github.com/MartianCatBR/easymac-cleaner/releases/download/v1.6.2/EasyMacCleaner-1.6.2.zip), the signed and notarized app. See the [release notes](https://github.com/MartianCatBR/easymac-cleaner/releases/tag/v1.6.2) or visit the [official website](https://martiancat.space).
 
 ---
 
@@ -146,7 +146,7 @@ Accepted contributors receive the Community Hero achievement and a badge in the 
 
 ## 🌍 Supported Languages
 
-Fully localized in **15 languages**:
+Fully localized in **16 languages**:
 
 - 🇺🇸 **English**
 - 🇧🇷 **Português** (Portuguese)
@@ -163,6 +163,7 @@ Fully localized in **15 languages**:
 - 🇷🇺 **Русский** (Russian)
 - 🇺🇦 **Українська** (Ukrainian)
 - 🇮🇳 **हिन्दी** (Hindi)
+- 🇹🇭 **ไทย** (Thai)
 
 ---
 
