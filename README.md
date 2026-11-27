@@ -15,7 +15,7 @@
 [![Root](https://img.shields.io/badge/Root-Not%20Required-success?style=flat-square)](https://martiancat.space)
 [![Privacy First](https://img.shields.io/badge/Privacy-Anonymous-green?style=flat-square)](https://martiancat.space/privacy.html)
 [![Architecture](https://img.shields.io/badge/Architecture-Universal-lightgrey?style=flat-square)](https://martiancat.space)
-[![Download](https://img.shields.io/badge/Download-v1.6.2-007EC6?style=flat-square)](https://github.com/MartianCatBR/easymac-cleaner/releases/download/v1.6.2/EasyMacCleaner-1.6.2.zip)
+[![Download](https://img.shields.io/badge/Download-v1.7.3-007EC6?style=flat-square)](https://github.com/MartianCatBR/easymac-cleaner/releases/download/v1.7.3/EasyMacCleaner-1.7.3.zip)
 
 <br/>
 
@@ -24,7 +24,7 @@
 <br/><br/>
 
 [**🌐 Official website**](https://martiancat.space) &nbsp;•&nbsp; 
-[**⬇️ Download latest**](https://github.com/MartianCatBR/easymac-cleaner/releases/download/v1.6.2/EasyMacCleaner-1.6.2.zip) &nbsp;•&nbsp; 
+[**⬇️ Download latest**](https://github.com/MartianCatBR/easymac-cleaner/releases/download/v1.7.3/EasyMacCleaner-1.7.3.zip) &nbsp;•&nbsp; 
 [**📜 Privacy policy**](https://martiancat.space/privacy.html) &nbsp;•&nbsp; 
 [**💬 Report an issue**](https://github.com/MartianCatBR/easymac-cleaner/issues)
 
@@ -42,8 +42,8 @@ brew install --cask easymac-cleaner
 
 > 💡 **Tip**: you can update anytime with `brew upgrade --cask easymac-cleaner` or use the built-in Sparkle updater.
 
-### 📦 Direct download
-Prefer a standalone build? Download [EasyMac Cleaner 1.6.2 (ZIP)](https://github.com/MartianCatBR/easymac-cleaner/releases/download/v1.6.2/EasyMacCleaner-1.6.2.zip), the signed and notarized app. See the [release notes](https://github.com/MartianCatBR/easymac-cleaner/releases/tag/v1.6.2) or visit the [official website](https://martiancat.space).
+### 📦 Version distributed through the MartianCat website
+Prefer a standalone build? Download [EasyMac Cleaner 1.7.3 (ZIP)](https://github.com/MartianCatBR/easymac-cleaner/releases/download/v1.7.3/EasyMacCleaner-1.7.3.zip), the signed and notarized app. See the [release notes](https://github.com/MartianCatBR/easymac-cleaner/releases/tag/v1.7.3) or visit the [official website](https://martiancat.space).
 
 ---
 
